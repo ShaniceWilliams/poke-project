@@ -1,4 +1,4 @@
-# poke-project
+# Poke-project
 
 Inspired by Gaurav Sahani's tableau project youtube video.
 
